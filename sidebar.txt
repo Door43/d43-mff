@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mff:home|Door43 (mff)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mff|d43-mff repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mff/archive/master.zip|d43-mff.zip]]
+
+**Recent Changes**
+{{changes>ns = mff}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mff|Ethnologue data]]
+
